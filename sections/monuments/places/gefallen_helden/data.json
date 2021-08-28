@@ -1,0 +1,10 @@
+{
+  "id": "gefallen_helden",
+  "section": "monuments",
+  "icon": "ic_gefallen_helden",
+  "lat": 50.206632,
+  "lng": 18.568445,
+  "website_url": null,
+  "facebook_url": null,
+  "images": ["gefallen_helden_1", "gefallen_helden_2"]
+}

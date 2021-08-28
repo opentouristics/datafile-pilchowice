@@ -1,0 +1,25 @@
+{
+  "region_id": "pilchowice",
+  "center": {
+    "lat": 50.21476,
+    "lng": 18.56232
+  },
+  "contributors": [],
+  "featured": ["Pilchowice", "Wilcza", "Stanica", "Leboszowice"],
+  "sources": [
+    {
+      "name": "Strona internetowa gminy Pilchowice",
+      "website_url": "https://pilchowice.pl"
+    }
+  ],
+  "links": [
+    {
+      "name": "Strona internetowa gminy Pilchowice",
+      "website_url": "https://pilchowice.pl"
+    },
+    {
+      "name": "Stowarzyszenie Pilchowiczanie Pilchowiczanom",
+      "website_url": "http://www.spp.pilchowice.pl"
+    }
+  ]
+}
