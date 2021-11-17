@@ -8,8 +8,9 @@ trzeba dobrze szukać), to w tym miejscu przez długie wieki stał młyn. Dodatk
 kawałek wcześniej, po lewej stronie tej trasy, znajdowały się rozległe
 zabudowania folwarku, należącego do gromady Wielopole.
 
-Wziąwszy za pretekst tę piękną legendę, spróbujmy poznać nieco bliżej historię
-naszej małej ojczyzny.
+## Historia Kaziora
+
+Poznajmy nieco bliżej historię tego miejsca.
 
 Pochód wojsk polskich idących na odsiecz Wiedniowi w 1683 r. z pewnością
 przemaszerował przez naszą okolicę. Wspomina o tym wiele przekazów i źródeł. Z
@@ -89,7 +90,7 @@ legendzie, miała miejsce.
 Dziś niewiele pozostało śladów po młynie, ale wprawny obserwator wypatrzy zapis
 historii w terenie.
 
-# Legenda
+## Legenda
 
 Dawne to były czasy, gdy miasto Gliwice otoczone było zewsząd borem i tylko
 nieliczne wsie okalały zamożny gród, do którego to w sierpniu 1683 roku przybył
