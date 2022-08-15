@@ -1,10 +1,10 @@
 {
   "id": "mlynowka",
   "section": "attractions",
-  "icon": "ic_placeholder",
+  "icon": "ic_mlynowka",
   "lat": 50.22822,
   "lng": 18.55763,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["mlynowka_1", "mlynowka_2", "mlynowka_3", "mlynowka_4"]
 }

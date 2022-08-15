@@ -1,10 +1,10 @@
 {
   "id": "bitwa_na_kampie",
   "section": "interesting_places",
-  "icon": "ic_placeholder",
+  "icon": "ic_bitwa_na_kampie",
   "lat": 50.24734,
   "lng": 18.55254,
   "website_url": null,
   "facebook_url": null,
-  "images": []
+  "images": ["bitwa_na_kampie_1", "bitwa_na_kampie_2", "bitwa_na_kampie_3"]
 }
