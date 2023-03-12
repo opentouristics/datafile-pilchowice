@@ -6,7 +6,7 @@ on:
     branches:
       - master
     tags-ignore:
-      - "v*"
+      - 'v*'
 
 jobs:
   build:
@@ -20,13 +20,13 @@ jobs:
       - name: Checkout database-tools
         uses: actions/checkout@v3
         with:
-          repository: opentouristics/database-tools
+          repository: otwartaturystyka/database-tools
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout datafile repo
         uses: actions/checkout@v3
         with:
-          repository: opentouristics/datafile-${{ env.DATAFILE_ID }}
+          repository: otwartaturystyka/datafile-${{ env.DATAFILE_ID }}
           path: datafiles/datafile-${{ env.DATAFILE_ID }}
           lfs: true
 
